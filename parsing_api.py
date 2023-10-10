@@ -1,3 +1,6 @@
+# Урок 1. Основы клиент-серверного взаимодействия. Парсинг API
+# Данные с ozon.ru
+
 import requests
 
 url = ("https://api-seller.ozon.ru/v1/description-category/tree")
