@@ -18,3 +18,4 @@ collection = db.books
 #     print(doc)
 
 # collection.update_one({'title':'Thinking, Fast and Slow'}, {'$set':{'title':'Thinking'}})
+
